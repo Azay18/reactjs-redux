@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Rizqi",
+            "alamat": "Pekalongan",
+            "umur": 21,
+            "hp": "082314016044"
+        },
+        {
+            "id": 2,
+            "nama": "Azay",
+            "alamat": "Jakarta",
+            "umur": 23,
+            "hp": "082315231124"
+        },
+        {
+            "id": 3,
+            "nama": "Ariel",
+            "alamat": "Bandung",
+            "umur": 25,
+            "hp": "082315231124"
+        }
+    ]
+}
